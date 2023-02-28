@@ -1,0 +1,14 @@
+20230223	20:52:06	a05216ac-a54e-4cf6-b678-77d604048d77	TypeError:fsPromises.readFil is not a function20230224	00:24:05	8daa64e7-3a9e-47d7-860b-10605e0224b1	Error: Not allowed by CORS
+20230224	00:25:45	637a5bec-0b22-4331-aac5-79f89a349e7f	Error: Not allowed by CORS
+20230227	15:22:40	25ae64ad-6e43-495c-846a-175bb72dcfe0	ReferenceError: username is not defined
+20230227	15:23:26	d4335ecc-d12f-42a1-9f0b-6837689eaa44	ReferenceError: username is not defined
+20230227	15:24:49	aaaa216c-b4b0-4d95-8a41-b6b8c7e7a9b9	ReferenceError: username is not defined
+20230227	15:28:21	8adc1b1d-e15f-4fcd-8d52-adff42962def	ReferenceError: username is not defined
+20230227	15:28:56	17ad4ccc-8c90-487b-909f-04c190565334	ReferenceError: username is not defined
+20230227	15:28:57	b62ce996-511a-4c4c-8f16-2a655b31e6cd	ReferenceError: username is not defined
+20230227	15:28:58	19a3910b-46cf-4a32-8ec9-361e12af3eae	ReferenceError: username is not defined
+20230227	16:21:53	2373838b-7d4d-4e05-8ccd-deeff9213b80	TypeError: Cannot read properties of undefined (reading 'origin')
+20230227	17:40:06	0fae1af8-14bb-4192-8393-5fd1a9084e12	TypeError: Cannot read properties of undefined (reading 'origin')
+20230227	17:43:12	1b669510-1517-4f42-90e4-ee172816d510	TypeError: Cannot read properties of undefined (reading 'origin')
+20230227	17:49:33	19ba7673-6a16-4012-8d37-56df05e4060b	TypeError: Cannot read properties of undefined (reading 'origin')
+20230227	17:51:36	76ba92fc-a074-4132-a758-21199124cb08	TypeError: Cannot read properties of undefined (reading 'origin')
